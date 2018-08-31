@@ -1,2 +1,3 @@
 # tw-api
-This will have complete code of Node API for Taxiwaxi.
+
+a [Sails](http://sailsjs.org) application
